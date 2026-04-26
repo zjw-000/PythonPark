@@ -1,6 +1,6 @@
 Here is a paradise for learning Python, **nanny-level tutorial**: AI laboratory, treasure video, data structure, study guide, machine learning actual combat, deep learning actual combat, Python basics, web crawlers, big factory experience, program life, Resource sharing. **I will gradually improve it and continue to output!**
 
-At least two original articles per week, **Follow-up latest articles** will be first published on [[Official Account]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg), The video [[bilibili]](https://space.bilibili.com/331507846) is first released, you can add me [[WeChat]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg) Enter the **communication group** for technical exchanges or comments, welcome **Star**!
+At least two original articles per week, **Follow-up latest articles** will be first published on [[Official Account]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg), The video [[bilibili]](https://space.bilibili.com/331507846) is first released, you can add me [[WeChat]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg) Enter the **communication group** for technical exchanges or comments, welcome **Star**!00000
 
 [Mind Map](#Mind-Map): See the end of the article.
 
